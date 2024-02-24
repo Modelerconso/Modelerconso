@@ -4,7 +4,7 @@ Hey there! I'm a computer science graduate with a second-class honors degree and
 
 ## Experience
 
-- **Teaching Assistant**: Gained valuable mentoring experience.
+- **Teaching Assistant**: SC312104 Introduction to Data Science (Semester 1/2022)
 - **Athletic Achievements**: Won awards in both running competitions and Taekwondo.
 - **Internship**: Completed an internship during my final year.
 - **Community Service**: Actively participated in community service initiatives.
