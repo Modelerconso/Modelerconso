@@ -1,6 +1,6 @@
 # About Me
 
-Hey there! I'm a computer science graduate with a second-class honors degree and a passion for both coding and sports. My journey into technology started alongside my leadership role as the vice president and later president of the Taekwondo club. Here, I leveraged data, statistics, and research to elevate our athletes' performance, culminating in remarkable achievements at the KKU Games 2022.
+Hi, I hold a second class honors degree in Computer Science and have a strong passion for technology, particularly software development. I have worked on web applications for university projects, personal projects, and develop software solutions for a company during co-operative. I used to be a freelancer for small businesses. Cybersecurity is another keen interest, with participation in skill development programs and courses offered by both government and industry entities. I am always ready to learn new things and aspire to apply my knowledge and skills to contribute effectively to your company.
 
 ## Experience
 
