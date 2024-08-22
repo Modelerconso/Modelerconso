@@ -18,7 +18,3 @@ Hi, I hold a second class honors degree in Computer Science and have a strong pa
 ## Contribution
 
 Aside from my academic and athletic pursuits, I'm deeply involved in volunteering, particularly in programming-related projects. I'm driven by a desire to make a positive impact on society through technology.
-
-## Open to Work
-
-I am currently seeking opportunities as a software developer. Feel free to reach out if you think I'd be a good fit for your team!
