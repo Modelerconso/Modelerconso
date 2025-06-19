@@ -6,7 +6,6 @@ Hi, I hold a second class honors degree in Computer Science and have a strong pa
 
 - **Teaching Assistant**: SC312104 Introduction to Data Science (Semester 1/2022)
 - **Athletic Achievements**: Won awards in both running competitions and Taekwondo.
-- **Internship**: Completed an internship during my final year.
 - **Community Service**: Actively participated in community service initiatives.
 
 ## Skills
